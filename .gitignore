@@ -1,0 +1,25 @@
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Arduino / PlatformIO build output
+build/
+.pio/
+*.bin
+*.elf
+*.hex
+
+# KiCad backups and caches
+*-backups/
+*.kicad_prl
+fp-info-cache
+*.bak
+
+# CAD autosave / lock files
+*.FCBak
+~$*
